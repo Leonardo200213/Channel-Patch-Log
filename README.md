@@ -2,7 +2,7 @@
 Un log di tutte le modifiche sul mio canale YouTube
 
 
-0.1: Creazione canale (6 Ottobre 2014)
+0.1: Creazione canale (6 Ottobre 2014) \n
 0.2: Primo video (21 Febbraio 2020)
 0.3: Prime live su Twitch
 1.0: Prima live ricaricata (30 dic 2021)
