@@ -31,4 +31,4 @@ Un log di tutte le modifiche sul mio canale Twitch
 
 1.7.1: Rimozione banner canale
 
-2.0: Modifica nome da Mrleo02 a MisterleoIndieLounge, cambio logo (12/02/2025)
+2.0: Modifica nome da Mrleo02 a MisterleoIndieLounge, cambio logo, cambiato colore canale (12/02/2025)
